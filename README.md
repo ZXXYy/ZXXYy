@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZXXYy
-- 👀 I’m working on system programming & security
-- 🌱 I’m currently learning front-end skills
+- 👀 I’m working on program analysis & program security & emperical study
+- 🌱 I’m currently learning Solana Rust programs & Code LLMs
 - 📫 How to reach me xiaoyez@zju.edu.cn
 
 <!---
